@@ -2,4 +2,4 @@
 
 Projeto Android Curso HTML e CSS
 
-<a href="https://igor219.github.io/projeto-android/" target="blank">Acesse aqui!!</a> 
+<a href="https://igor219.github.io/projeto-android/" target="_blank">Acesse aqui!!</a> 
